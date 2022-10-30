@@ -59,3 +59,23 @@ In order to decrease repeated code shanks, increase the time that can read the c
  
 # Contributing
 Any kind of enhancement or contribution is welcomed.
+
+![alt text](images/Group8_FinalProject_page-0001.jpg)
+![alt text](images/Group8_FinalProject_page-0002.jpg)
+![alt text](images/Group8_FinalProject_page-0003.jpg)
+![alt text](images/Group8_FinalProject_page-0004.jpg)
+![alt text](images/Group8_FinalProject_page-0005.jpg)
+![alt text](images/Group8_FinalProject_page-0006.jpg)
+![alt text](images/Group8_FinalProject_page-0007.jpg)
+![alt text](images/Group8_FinalProject_page-0008.jpg)
+![alt text](images/Group8_FinalProject_page-0009.jpg)
+![alt text](images/Group8_FinalProject_page-0010.jpg)
+![alt text](images/Group8_FinalProject_page-0011.jpg)
+![alt text](images/Group8_FinalProject_page-0012.jpg)
+![alt text](images/Group8_FinalProject_page-0013.jpg)
+![alt text](images/Group8_FinalProject_page-0014.jpg)
+![alt text](images/Group8_FinalProject_page-0015.jpg)
+![alt text](images/Group8_FinalProject_page-0016.jpg)
+![alt text](images/Group8_FinalProject_page-0017.jpg)
+![alt text](images/Group8_FinalProject_page-0018.jpg)
+![alt text](images/Group8_FinalProject_page-0019.jpg)
